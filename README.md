@@ -1,2 +1,10 @@
 # Object-Oriented-Programming__Python
-## class
+## 1) Class
+## 2) Data Structures
+####Arrays vs. List
+####Stack
+####Queue
+####Trees
+####Linked Lists
+####Graphs
+####HashMaps
